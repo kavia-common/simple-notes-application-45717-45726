@@ -1,0 +1,16 @@
+[
+  {
+    "id": "d044bba4-276c-4477-9e9a-f5a743fcc0df",
+    "title": "Welcome to Simple Notes",
+    "content": "This is your first note. You can create, view, edit, and delete notes.",
+    "createdAt": "2025-11-24T04:59:02.202Z",
+    "updatedAt": "2025-11-24T04:59:02.202Z"
+  },
+  {
+    "id": "942e039e-14a5-41f4-984c-5f2089e2ec9c",
+    "title": "Ocean Professional Theme",
+    "content": "API follows a clean, modern, documented style with blue and amber accents.",
+    "createdAt": "2025-11-24T04:59:02.202Z",
+    "updatedAt": "2025-11-24T04:59:02.202Z"
+  }
+]
